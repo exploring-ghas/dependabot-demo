@@ -8,7 +8,9 @@
 
 ## Dependabot Demo Repository
 
-GITHUB_TOKEN: ghp_WPsdasdjhasd9hnadjklnhdajsd7
+GITHUB_TOKEN: ghp_8CAuxidp9HayXuwPRYlNrNTT9lCu5B0VP3ve
+
+
 This repo contains some projects with outdated dependencies. Fork it to try out
 Dependabot :dependabot:!
 
